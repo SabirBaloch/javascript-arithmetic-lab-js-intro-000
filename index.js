@@ -1,5 +1,5 @@
 function add(a,b){
- number += 5
+ retun a+b
 }
 function subtract(a,b){
 return a-b
