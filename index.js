@@ -23,5 +23,5 @@ function makeInt(n){
   return n
 }
 function makeInt('2', 10){
-  return 
+  return
 }
