@@ -11,6 +11,6 @@ return a*b
 function divide(a,b){
 return a/b
 }
-functin inc(a){
+function inc(a){
   return a++
 }
